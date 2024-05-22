@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.car-listings {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
