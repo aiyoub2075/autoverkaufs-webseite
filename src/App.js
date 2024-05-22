@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Autoverkauf Webseite</h1>
+        <h1>Aiyoub Autoverkauf Webseite</h1>
       </header>
       <div className="car-listings">
         {cars.map((car, index) => (
